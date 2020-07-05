@@ -3,11 +3,8 @@
     "description": "Tool to audit Drupal custom code.",
     "type": "drupal-tool",
     "require": {
-        "consolidation/robo": "^2.1",
         "drupal/coder": "^8.3",
-        "squizlabs/php_codesniffer": "^3.5",
-        "phpmd/phpmd": "^2.8",
-        "sebastian/phpcpd": "^5.0"
+        "squizlabs/php_codesniffer": "^3.5"
     },
     "authors": [
         {
